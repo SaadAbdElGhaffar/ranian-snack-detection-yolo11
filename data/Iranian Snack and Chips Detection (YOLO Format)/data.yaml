@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 19
+names: ['Ashi Mashi snacks', 'Chee pellet ketchup', 'Chee pellet vinegar', 'Cheetoz chili chips', 'Cheetoz ketchup chips', 'Cheetoz onion and parsley chips', 'Cheetoz salty chips', 'Cheetoz snack 30g', 'Cheetoz snack 90g', 'Cheetoz vinegar chips', 'Cheetoz wheelsnack', 'Maz Maz ketchup chips', 'Maz Maz potato sticks', 'Maz Maz salty chips', 'Maz Maz vinegar chips', 'Mini Lina', 'Minoo cream biscuit', 'Naderi mini cookie', 'Naderi mini wafer']
+
+roboflow:
+  workspace: learningprojects-gbvkz
+  project: store-uy7tb
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/learningprojects-gbvkz/store-uy7tb/dataset/2
