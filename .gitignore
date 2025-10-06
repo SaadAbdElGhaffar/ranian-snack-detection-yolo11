@@ -144,7 +144,7 @@ data/
 !data/.gitkeep
 
 # Output videos and images
-outputs/
+# outputs/
 !outputs/.gitkeep
 
 # Temporary files
