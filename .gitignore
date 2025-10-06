@@ -170,7 +170,7 @@ Thumbs.db
 *~
 
 # Video files (usually large)
-*.mp4
+# *.mp4
 *.avi
 *.mov
 *.mkv
