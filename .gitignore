@@ -134,8 +134,8 @@ runs/
 !runs/.gitkeep
 
 # Model weights (too large for git)
-*.pt
-*.pth
+# *.pt
+# *.pth
 *.weights
 !models/.gitkeep
 
