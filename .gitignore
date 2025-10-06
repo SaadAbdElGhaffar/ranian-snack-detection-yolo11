@@ -130,7 +130,7 @@ dmypy.json
 
 # Project specific
 # YOLO training outputs
-runs/
+# runs/
 !runs/.gitkeep
 
 # Model weights (too large for git)
