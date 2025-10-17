@@ -221,6 +221,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Roboflow** for dataset management and annotation tools
 - **OpenCV** and **PIL** for image processing capabilities
 - The open-source community for continuous inspiration
+- 
+## 📬 Contact
+- **GitHub:** [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)  
+- **LinkedIn:** [Saad Abd El-Ghaffar](https://www.linkedin.com/in/saadabdelghaffar/)  
+- **Email:** [saad.abdelghaffar.ai@gmail.com](mailto:saad.abdelghaffar.ai@gmail.com)  
+- **Kaggle:** [@abdocan](https://www.kaggle.com/abdocan)
 
 ---
 ⭐ **If you find this project helpful, please give it a star!** ⭐
